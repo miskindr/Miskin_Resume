@@ -1,9 +1,9 @@
 ---
 layout: resume
-title: Brigham Young's Resume
+title: Dawson Miskin Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Dawson Miskin
+Graduating college in the fall of 2023 with a bachelor degree in computer science
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
@@ -15,15 +15,15 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2014-2017`
+__Ramstien High School__, Ramstein, Germany
 
-- Full academic scholarship with 4.0 GPA
+- 3.8 GPA
 
-`Expected 2029`
+`2017-2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- 3.5 Major GPA
 
 
 ## Related Experience
@@ -72,14 +72,8 @@ __Pinnacle Management Group__,
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
-
-
+`2021-2023`
+__Sales Representative__, Aptive
 
 <!-- ### Footer
 
