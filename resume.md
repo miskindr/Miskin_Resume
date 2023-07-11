@@ -3,7 +3,6 @@ layout: resume
 title: Dawson Miskin Resume
 ---
 # Dawson Miskin
-Graduating college in the fall of 2023 with a bachelor degree in computer science
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
@@ -14,28 +13,24 @@ Graduating college in the fall of 2023 with a bachelor degree in computer scienc
 
 
 ## Education
+`Expected 2023`
+__Brigham Young University - Idaho__, Rexburg, ID
+
+- Major: Computer Engineering
+
+- 3.5 Major GPA
+
+**Relevant Courses:**
+
+- Functional Programming
+
+- Swift
 
 `2014-2017`
 __Ramstien High School__, Ramstein, Germany
 
 - 3.8 GPA
 
-`2017-2023`
-__Brigham Young University - Idaho__, Rexburg, ID
-
-- 3.5 Major GPA
-
-
-## Related Experience
-
-### Internships
-
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
 
 ### Data Science Lead
 
@@ -70,10 +65,14 @@ __Pinnacle Management Group__,
 - Saved client $10k in database and dashboard server fees and validated future dashboard processes.
 
 
-## Service and Work History
+## Volunteer Experience
 
-`2021-2023`
-__Sales Representative__, Aptive
+`2019-2021`
+__Service Missionary__, Sacramento, CA
+
+- Work with a partner to teach others
+
+- Held meeting with other missionaries and found ways to improve the team I was leading.
 
 <!-- ### Footer
 
