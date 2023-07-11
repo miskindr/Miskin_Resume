@@ -1,42 +1,36 @@
 ---
-layout: cv
-title: Brigham Young's Resume
+layout: resume
+title: Dawson Miskin Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Dawson Miskin
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
+
 ## Education
-
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`Expected 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- Major: Computer Engineering
 
+- 3.5 Major GPA
 
-## Related Experience
+**Relevant Courses:**
 
-### Internships
+- Functional Programming
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+- Swift
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+`2014-2017`
+__Ramstien High School__, Ramstein, Germany
+
+- 3.8 GPA
+
 
 ### Data Science Lead
 
@@ -71,16 +65,14 @@ __Pinnacle Management Group__,
 - Saved client $10k in database and dashboard server fees and validated future dashboard processes.
 
 
-## Service and Work History
+## Volunteer Experience
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`2019-2021`
+__Service Missionary__, Sacramento, CA
 
+- Work with a partner to teach others
 
-`2023-2025`
-__Service Missionary__, South Africa
-
-
+- Held meeting with other missionaries and found ways to improve the team I was leading.
 
 <!-- ### Footer
 
