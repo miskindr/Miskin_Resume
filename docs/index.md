@@ -26,12 +26,6 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 - Swift
 
-`2014-2017`
-__Ramstien High School__, Ramstein, Germany
-
-- 3.8 GPA
-
-
 ### Data Science Lead
 
 `April 2027 - June 2027`
@@ -70,9 +64,9 @@ __Pinnacle Management Group__,
 `2019-2021`
 __Service Missionary__, Sacramento, CA
 
-- Work with a partner to teach others
+- Collaborated with a partner to increase effectiveness
 
-- Held meeting with other missionaries and found ways to improve the team I was leading.
+- Organized meetings to increase team unity and goals
 
 <!-- ### Footer
 
